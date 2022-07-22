@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @holvender
-- 👀 I’m interested in programming.(?)
-- 🌱 I’m currently learning JavaScript :/
+- 👀 I’m really interested in programming.
+- 🌱 I’m currently learning Python :/
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me ???
 
